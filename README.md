@@ -14,4 +14,5 @@ Following is set of rules to be followed in code
 2. [Coding Styles](https://github.com/ajency/Ajency-Coding-Standards/wiki/Coding-Styles)
 3. [Documentation for code](https://github.com/ajency/Ajency-Coding-Standards/wiki/Code-Documentation)
 4. [Naming Convention & Code formatter tools](https://github.com/ajency/Ajency-Coding-Standards/wiki/Naming-Convention-&-Code-formatting-Tools)
-5. Peer Reviews
+5. [Peer Review on code using pull request](https://github.com/ajency/Ajency-Coding-Standards/wiki/Peer-Review-on-code-using-pull-request)
+6. For Database- table naming Convention please follow laravel standards -[click here to check](https://laravel.com/docs/5.4/eloquent#relationships)
